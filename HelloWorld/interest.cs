@@ -8,8 +8,8 @@ namespace HelloWorld
 {
     public class interest
     {
-        public DateTime start { get; set; }
-        public DateTime end { get; set; }
+        public double start { get; set; }
+        public double end { get; set; }
         public int[] cond { get; set; }
 
     }
